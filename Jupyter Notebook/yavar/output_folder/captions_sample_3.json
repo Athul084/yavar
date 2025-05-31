@@ -1,0 +1,16 @@
+{
+  "filename": "sample_3.jpg",
+  "short_caption": "brief caption for this image. context : section : product showcase caption : photo 3 : new product collection context : our latest product lineup is displayed below.",
+  "short_confidence": 0.9473392367362976,
+  "detailed_caption": "detailed description of this image. context : section : product showcase caption : photo 3 : new product collection context : our latest product lineup is displayed below.",
+  "detailed_confidence": 0.7113167643547058,
+  "context_used": "Section: Product Showcase\nCaption: Photo 3: New product collection\nContext: Our latest product lineup is displayed below.",
+  "metadata": {
+    "section_header": "Product Showcase",
+    "above_text": "Our latest product lineup is displayed below.",
+    "caption": "Photo 3: New product collection",
+    "picture_id": "products/photo3",
+    "footnote": "Colors may vary slightly from actual products",
+    "below_text": "The new designs feature improved ergonomics and durability."
+  }
+}

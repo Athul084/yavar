@@ -1,0 +1,8 @@
+{
+  "image": "sample_4.jpg",
+  "short_caption": "brief caption for this image. context : section : performance metrics. caption : figure 2 : quarterly sales performance. context : our quarterly performance is visualized in the chart below..r",
+  "short_confidence": 0.29155290126800537,
+  "detailed_caption": "detailed description of this image. context : section : performance metrics. caption : figure 2 : quarterly sales performance. context : our quarterly performance is visualized in the chart below..",
+  "detailed_confidence": 0.9547814130783081,
+  "context_used": "Section: Performance Metrics. Caption: Figure 2: Quarterly sales performance. Context: Our quarterly performance is visualized in the chart below.."
+}

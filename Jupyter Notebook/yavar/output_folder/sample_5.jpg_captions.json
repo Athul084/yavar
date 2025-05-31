@@ -1,0 +1,8 @@
+{
+  "image": "sample_5.jpg",
+  "short_caption": "brief caption for this image. context : section : product showcase. caption : photo 3 : new product collection. context : our latest product lineup is displayed below..",
+  "short_confidence": 0.9533176422119141,
+  "detailed_caption": "detailed description of this image. context : section : product showcase. caption : photo 3 : new product collection. context : our latest product lineup is displayed below..",
+  "detailed_confidence": 0.9533272981643677,
+  "context_used": "Section: Product Showcase. Caption: Photo 3: New product collection. Context: Our latest product lineup is displayed below.."
+}

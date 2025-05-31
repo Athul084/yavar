@@ -1,0 +1,8 @@
+{
+  "section_header": "Product Showcase",
+  "above_text": "Our latest product lineup is displayed below.",
+  "caption": "Photo 3: New product collection",
+  "picture_id": "products/photo3",
+  "footnote": "Colors may vary slightly from actual products",
+  "below_text": "The new designs feature improved ergonomics and durability."
+}

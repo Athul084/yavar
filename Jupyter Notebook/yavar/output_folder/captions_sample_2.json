@@ -1,0 +1,16 @@
+{
+  "filename": "sample_2.jpg",
+  "short_caption": "brief caption for this image. context : section : performance metrics caption : figure 2 : quarterly sales performance context : our quarterly performance is visualized in the chart below.",
+  "short_confidence": 0.9527180194854736,
+  "detailed_caption": "detailed description of this image. context : section : performance metrics caption : figure 2 : quarterly sales performance context : our quarterly performance is visualized in the chart below.",
+  "detailed_confidence": 0.939537525177002,
+  "context_used": "Section: Performance Metrics\nCaption: Figure 2: Quarterly sales performance\nContext: Our quarterly performance is visualized in the chart below.",
+  "metadata": {
+    "section_header": "Performance Metrics",
+    "above_text": "Our quarterly performance is visualized in the chart below.",
+    "caption": "Figure 2: Quarterly sales performance",
+    "picture_id": "metrics/chart2",
+    "footnote": "Data source: Internal sales database",
+    "below_text": "Q3 shows peak performance due to seasonal demand."
+  }
+}

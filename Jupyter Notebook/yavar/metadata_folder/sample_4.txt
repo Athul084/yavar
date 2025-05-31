@@ -1,0 +1,8 @@
+{
+  "section_header": "Performance Metrics",
+  "above_text": "Our quarterly performance is visualized in the chart below.",
+  "caption": "Figure 2: Quarterly sales performance",
+  "picture_id": "metrics/chart2",
+  "footnote": "Data source: Internal sales database",
+  "below_text": "Q3 shows peak performance due to seasonal demand."
+}
